@@ -1,0 +1,178 @@
+Timestamp,Nama Tugas ,Deadline Tugas  ,Tingkat Kesulitan Tugas,Estimasi Durasi Pengerjaan Tugas ,Kategori Tugas,Prioritas Tugas  ,Email Address
+11/23/2024 11:42:01,Laporan Analisis Performa Penjualan dan Strategi Peningkatan Revenue Pada E-Commerce ,11/24/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 11:53:00,Artikel Ilmiah Penelitian,11/25/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Penting),
+11/23/2024 12:06:11,capstone,12/12/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 12:07:12,Laporan Study Field,11/28/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Penting),
+11/23/2024 12:25:34,Membuat LPJ SRD,11/24/2024,3,4-6 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",1 (Tidak Prioritas),
+11/23/2024 12:27:29,Proposal Marcomm,11/26/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Penting),
+11/23/2024 12:33:18, Laporan Praktikum Mikrotik Manajemen Trafik Desain Manajemen Jaringan,11/26/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 12:55:29,Laporan Pertanggungjawaban UKM,11/30/2024,2,Lebih dari 6 Jam,UKM (Unit Kegiatan Mahasiswa),4 (Penting),
+11/23/2024 13:04:01,Jurnal Metode Penelitian ,11/26/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Penting),
+11/23/2024 13:07:35,Esai Metode Penelitian ,11/29/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 13:10:49,Proposal Kewirausahaan,11/30/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),
+11/23/2024 13:15:35,Project Machine Learning,11/30/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Penting),
+11/23/2024 13:22:36,Laporan Praktikum Perancangan Fasilitas Pembuatan Trolley ,12/7/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 13:24:20,Makalah Perilaku Organisasi ,11/25/2024,1,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 14:26:14,Metpen,11/30/2024,2,4-6 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",3 (Cukup Prioritas),
+11/23/2024 15:38:42,Simulasi Rangkaian Sistem Digital dengan Aplikasi Proteus,11/26/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 20:06:32,Laporan Audit Sistem Informasi ,12/18/2024,3,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),
+11/23/2024 20:08:28,Review Jurnal Desain Manajemen Jaringan,11/25/2024,1,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 20:19:47,Buat aplikasi berdasarkan studi kasus yang sudah ditentukan,12/13/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 20:22:22,Laporan pemrograman berorientasi objek ,11/29/2024,1,Kurang dari 1 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),
+11/23/2024 20:23:32,Advanced Database,12/6/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),
+11/23/2024 20:32:00,Project BDL,12/9/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 20:32:28,Revisi Proposal Skripsi UI/UX,12/2/2024,1,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),
+11/23/2024 20:40:53,Laporan praktek kerja lapangan ,12/16/2024,3,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 20:42:59,Design Funpost,11/24/2024,1,1-3 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",5 (Sangat Prioritas),
+11/23/2024 20:46:01,Data Visualization (Tableau & Power BI),11/30/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),
+11/23/2024 20:46:01,Laporan Resmi Rangkaian Listrik 1,11/25/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 20:47:20,Laporan pertanggungjawaban divisi supporter,11/25/2024,2,Lebih dari 6 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",4 (Prioritas),
+11/23/2024 20:48:49,Laporan praktikum ,11/25/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),
+11/23/2024 20:52:13,"""Recreate Dashboard Customer Complaint by Tableau""",11/30/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),
+11/23/2024 20:53:00,"""Recreate Dashboard Customer Complaint by Tableau""",11/30/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),
+11/23/2024 21:00:18,Presentasi mengenai Shift Register,12/12/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),
+11/23/2024 21:04:05,Tugas akhir praktikum PCD tentang penelitian ,11/24/2024,3,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),
+11/23/2024 21:06:31,Pengintegrasian REFPROP dengan Excel Menggunakan VBA,11/27/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),
+11/23/2024 21:06:39,Post test 3,11/24/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 21:23:50,Tugas Visualisasi Data ,11/30/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),
+11/23/2024 21:31:25,METOPEN,12/20/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),
+11/23/2024 21:44:22,Laporan Praktikum Penyakit Bakterial Mikal Ikan,11/25/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 21:45:22,Laporan Praktikum Manajemen Marikultur,11/27/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),
+11/23/2024 21:46:13,Video Presentasi Praktikum Penyakit Bakterial Mikal Ikan,11/26/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),
+11/23/2024 21:47:28,Proposal UI/UX,11/26/2024,1,Kurang dari 1 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",4 (Prioritas),
+11/23/2024 21:47:43,Laporan Pertanggung Jawaban Praktikum Lapang 2024,11/28/2024,3,Lebih dari 6 Jam,Kepanitiaan,3 (Cukup Prioritas),
+11/23/2024 21:48:27,Mengisi Feedback Mentoring,11/24/2024,1,Kurang dari 1 Jam,Kepanitiaan,4 (Prioritas),
+11/23/2024 21:53:57,Project Basis data lanjut,12/13/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),
+11/23/2024 21:57:27,ui/ux,11/27/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),
+11/23/2024 22:08:42,mengedit lagu dance,11/24/2024,3,4-6 Jam,UKM (Unit Kegiatan Mahasiswa),4 (Prioritas),
+11/23/2024 22:29:27,Esai ILT SS 05,11/24/2024,1,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),alfinaandriani2902@gmail.com
+11/23/2024 22:37:59,Review Jurnal Keagamaan ,12/12/2024,1,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),fiflow.co@gmail.com
+11/23/2024 22:42:18,Laporan praktikum analisis sensoris uji qda (deskriptif),11/26/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),auliavirna24@gmail.com
+11/23/2024 22:44:01,Ppt mankul mikane,11/28/2024,1,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),auliavirna24@gmail.com
+11/23/2024 22:45:41,Video analisis sensoris,12/3/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),auliavirna24@gmail.com
+11/23/2024 22:46:23,Garnish mankul,11/27/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),auliavirna24@gmail.com
+11/23/2024 22:47:12,Cari btip makanan,12/13/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),auliavirna24@gmail.com
+11/23/2024 22:48:10,Laporan egp kadar serat,12/6/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),auliavirna24@gmail.com
+11/23/2024 22:53:35,revisi artikel review,11/30/2024,1,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),anaafiana2603@gmail.com
+11/23/2024 22:55:13,laporan review 3 paper jaringan,11/24/2024,1,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),anaafiana2603@gmail.com
+11/23/2024 22:59:13,paper framework ,12/5/2024,1,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),anaafiana2603@gmail.com
+11/23/2024 23:00:53,vidio presentasi bela negara ,11/25/2024,1,Kurang dari 1 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",1 (Tidak Prioritas),anaafiana2603@gmail.com
+11/23/2024 23:01:54,laporan data flow diagram ,11/26/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),anaafiana2603@gmail.com
+11/23/2024 23:05:38,benerin codingan vb,12/12/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),anaafiana2603@gmail.com
+11/23/2024 23:24:11,Capstone Project ,12/6/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),fikri.huffadz@gmail.com
+11/23/2024 23:27:15,Laporan Dasboard Analytics Complaint Customer,11/30/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),fidyahsillehu24@gmail.com
+11/24/2024 0:15:00,Tugas 5 elektromagnetik telekomunikasi,11/27/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),hedi09052004@gmail.com
+11/24/2024 0:17:31,Tugas 4 elektromagnetika telekomunikasi,11/27/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),hedi09052004@gmail.com
+11/24/2024 0:21:22,Laporan praktikum elektromagnetika telekomunikasi,12/4/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),hedi09052004@gmail.com
+11/24/2024 0:22:57,Laporan praktikum sistem komunikasi,11/27/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),hedi09052004@gmail.com
+11/24/2024 0:24:08,Laporan praktikum pengolahan sinyal digital,12/11/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),3 (Cukup Prioritas)
+11/24/2024 4:46:52,Laporan Analisis Data Uji Korelasi dan Hipotesis,11/27/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),24083010120@student.upnjatim.ac.id
+11/24/2024 7:05:36,Jurnal Psikologi Komunikasi,12/30/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),adityarozzy@gmail.com
+11/24/2024 7:46:49,Artikel Pengabdian Masyarakat,11/25/2024,1,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),mafdaarchive@gmail.com
+11/24/2024 8:08:08,Outline penelitian pengolahan limbah ,11/25/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),puttyyy.sh95@gmail.com
+11/24/2024 8:09:14,Soal proses thermal ,11/28/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),puttyyy.sh95@gmail.com
+11/24/2024 8:10:30,Makalah dan ppt pemanfaatan limbah,12/4/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),puttyyy.sh95@gmail.com
+11/24/2024 8:17:17,Lomba Karya Tulis Ilmiah (EKB),11/30/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),24083010066@student.upnjatim.ac.id
+11/24/2024 10:07:30,Laporan PKL Rancang Bangun Website,11/25/2024,3,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),ameliaspin548@gmail.com
+11/24/2024 11:08:20,Portfolio Perancangan Furnitur Ruang Tamu,12/4/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),azzahranirmalad@gmail.com
+11/24/2024 11:09:10,Desain Feeds Instagram,11/24/2024,1,1-3 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",2 (Kurang Prioritas),azzahranirmalad@gmail.com
+11/24/2024 11:09:12,Laporan Mekanika Tanah,12/9/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),salsabilamahdiyahh@gmail.com
+11/24/2024 11:09:29,Laporan Estimasi Biaya Konstruksi - Pembangunan Rumah di Surakarta ,12/9/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),gitashintyad@gmail.com
+11/24/2024 11:10:19,Draft Tugas Akhir,11/29/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),azzahranirmalad@gmail.com
+11/24/2024 11:15:31,laporan komunikasi gender,11/26/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),clvaziziya10@gmail.com
+11/24/2024 11:16:07,Laporan Komunikasi gender,11/26/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),rahmania.abadi@gmail.com
+11/24/2024 11:21:13,Laporan hasil konseling,11/30/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),hasna.salsabila-2021@psikologi.unair.ac.id
+11/24/2024 11:22:14,Laporan Penelitian Tindakan Kelas,12/2/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),swastyaini29@gmail.com
+11/24/2024 11:26:20,Migrasi Aplikasi Dashboard PTPN1 PHP Native to PHP Laravel,11/30/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),rayhan21.kusuma@gmail.com
+11/24/2024 11:26:50,Skripsi,11/25/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),trjp16@gmail.com
+11/24/2024 11:30:32,Pengembangan Backend Aplikasi Dashboard PTPN 1,11/30/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),rayhan21.kusuma@gmail.com
+11/24/2024 11:31:03,Pengembangan Backend Aplikasi Dashboard PTPN 1,11/30/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),rayhan21.kusuma@gmail.com
+11/24/2024 11:31:33,Pengembangan Frontend Aplikasi Dashboard PTPN 1,11/30/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),5 (Sangat Prioritas)
+11/24/2024 11:47:31,Pembuatan proposal untuk lomba ui ux designer,1/3/2025,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),wisnuhafidfo@gmail.com
+11/24/2024 12:01:43,Laporan dan Catatan keuangan Organisasi,11/29/2024,2,1-3 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",3 (Cukup Prioritas),imeliatrisya1005@gmail.com
+11/24/2024 12:20:40,"""eksperimental""",11/25/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),kartikaranidyta@student.ub.ac.id
+11/24/2024 12:21:35,Kritik seni,11/26/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),kartikaranidyta@student.ub.ac.id
+11/24/2024 12:21:51,Projek PLC pembuatan alat pengemasan telur,11/30/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),nurulmnaely@gmail.com
+11/24/2024 12:23:27,Tubuh dalam praktik seni ,11/24/2024,1,4-6 Jam,Kepanitiaan,3 (Cukup Prioritas),kartikaranidyta@student.ub.ac.id
+11/24/2024 12:24:10,Seni patung non representasional,11/28/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),kartikaranidyta@student.ub.ac.id
+11/24/2024 12:24:46,Seni reproduksi ,11/29/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),kartikaranidyta@student.ub.ac.id
+11/24/2024 12:25:21,Seni keramik Malangan ,11/29/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),kartikaranidyta@student.ub.ac.id
+11/24/2024 12:25:53,Metodologi penciptaan,11/29/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),kartikaranidyta@student.ub.ac.id
+11/24/2024 12:44:19,"“Karya Ilmiah Mahasiswa”, “Otomasi Mesin Pengaduk Menggunakan PLC Omron CP1E”",12/3/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),abdurrahmanalfaiz04@gmail.com
+11/24/2024 13:23:45,Power Point Mengajar Bahasa Mandarin,11/26/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),byancapratamaagnaputri@gmail.com
+11/24/2024 13:24:43,Research Public Policy,11/29/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),zenpersonal20@gmail.com
+11/24/2024 13:25:11,Desain Branding salah satu Coffee Shop di Surabaya,11/30/2024,2,Lebih dari 6 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",5 (Sangat Prioritas),firmandotorres9@gmail.com
+11/24/2024 14:17:23,Perpajakan ,12/1/2024,3,Lebih dari 6 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",5 (Sangat Prioritas),celvingazinda54@gmail.com
+11/24/2024 14:17:58,Freelancing Web,11/25/2024,2,4-6 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",5 (Sangat Prioritas),devilzainur@gmail.com
+11/24/2024 14:18:40,Skripsi,2/20/2025,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),elmazelzaalexa@gmail.com
+11/24/2024 14:21:50,Laporan tugas mingguan,11/25/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),friskadamayanti067@gmail.com
+11/24/2024 14:22:02,Ujian akhir stase ,11/25/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),haqiazhari2@gmail.com
+11/24/2024 14:22:55,Laporan hasil magang,11/24/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),anailans36@gmail.com
+11/24/2024 15:17:03,Artikel perkembangan Ai,11/29/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),22082010007@student.upnjatim.ac.id
+11/24/2024 16:50:36,Makalah Riset Komunikasi,11/29/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),szifaa99@gmail.com
+11/24/2024 16:51:37,Laporan Caraka Diklat Organisasi,12/6/2024,3,Lebih dari 6 Jam,Kepanitiaan,3 (Cukup Prioritas),szifaa99@gmail.com
+11/24/2024 17:21:34,Laporan Bulanan MSIB,11/25/2024,1,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),aisma.nurlaili24@gmail.com
+11/24/2024 21:42:00,Laporan Bulanan Student Tech Academy Km RevoU,11/30/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),aishanurliana@gmail.com
+11/24/2024 22:25:23,"Jurnal, ""Metode Pengerjaan Bangunan Gedung Dengan Design Arsitektur Sakit Jiwa""",11/30/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),reynalakz25@gmail.com
+11/24/2024 23:54:47,Materi Presentasi Final Project,12/4/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),22082010056@student.upnjatim.ac.id
+11/25/2024 4:20:57,Seminar Hubungan Internasional ,12/3/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),zahnunz@gmail.com
+11/25/2024 7:52:15,Tugas Besar Sistem Penyaluran Air Buangan,12/14/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),nandadwiikartiika@gmail.com
+11/25/2024 7:55:29,Tugas Besar Perencanaan Drainase Kota,12/14/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),nandadwiikartiika@gmail.com
+11/25/2024 7:56:33,Laporan Teknik Pengelolaan Sampah,11/27/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),nandadwiikartiika@gmail.com
+11/25/2024 7:57:47,Laporan praktikum satuan operasi,11/27/2024,1,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),nandadwiikartiika@gmail.com
+11/25/2024 9:31:22,LPJ Organisasi Periode 2024/2025,11/28/2024,2,Lebih dari 6 Jam,UKM (Unit Kegiatan Mahasiswa),5 (Sangat Prioritas),mrakhanaufal.15@gmail.com
+11/25/2024 12:23:56,Manajemen Resiko IT Restoran Cepat Saji KFC DIPONEGORO ,12/1/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),23082010226@student.upnjatim.ac.id
+11/25/2024 12:40:20,Laporan Akhir Magang,1/24/2025,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),22083010094@student.upnjatim.ac.id
+11/25/2024 13:15:02,Artikel 6000 Kata,12/12/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),candra.hermawan.2004@gmail.com
+11/25/2024 13:57:36,Makalah Kajian Media Sosial,12/8/2025,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),indrianaayuningprameswari@gmail.com
+11/25/2024 14:37:54,Laporan Kegiatan Magang,12/9/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),cristinamelia1412@gmail.com
+11/25/2024 16:04:27,Surat Publikasi,11/26/2024,1,1-3 Jam,UKM (Unit Kegiatan Mahasiswa),5 (Sangat Prioritas),haniffekafediyani@gmail.com
+11/25/2024 16:05:06,Tugas besar SPAB ,11/29/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),haniffekafediyani@gmail.com
+11/25/2024 16:05:39,Tugas Besar Drainase ,1/7/2025,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),haniffekafediyani@gmail.com
+11/25/2024 16:06:22,PPT mata kuliah TPS ,11/26/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),haniffekafediyani@gmail.com
+11/25/2024 16:07:11,makalah mata kuliah TPS ,11/26/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),haniffekafediyani@gmail.com
+11/25/2024 16:08:33,Berkas Evaluasi Organisasi ,11/28/2024,2,4-6 Jam,UKM (Unit Kegiatan Mahasiswa),4 (Prioritas),haniffekafediyani@gmail.com
+11/25/2024 16:08:50,Laporan praktikum Penyehatan Udara ,11/27/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),tiarabudi1504@gmail.com
+11/25/2024 19:08:58, Membuat STP dalam penelitian dkv,11/29/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),aidasukhufatulk@gmail.com
+11/25/2024 21:09:27,Metodologi penelitian,5/12/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),imeliatn1005@gmail.com
+11/25/2024 21:11:40,Laporan TKTI,10/12/2024,1,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),imeliatn1005@gmail.com
+11/25/2024 23:10:17,Mini Paper Transformasi Wavelet & Aplikasinya,12/4/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),mirindanafsiyah2102@gmail.com
+11/25/2024 23:11:00,Paper Aljabar Graf,12/2/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),mirindanafsiyah2102@gmail.com
+11/26/2024 9:07:11,Laporan Sosial Project Kepemimpinan,12/17/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),wifaqulazmi05@gmail.com
+11/26/2024 9:11:23,Resume Buku Bela Negara Bab IV,11/28/2024,1,Kurang dari 1 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",1 (Tidak Prioritas),tujuhdev12@gmail.com
+11/26/2024 9:14:25,PowerPoint Metode Reimann,11/28/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),spirexgasken@gmail.com
+11/26/2024 9:19:03,Laporan Praktikum Bash,12/2/2024,1,Kurang dari 1 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",1 (Tidak Prioritas),skelatonggwp@gmail.com
+11/26/2024 9:21:02,Program C++ Queue,11/29/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),kaitoamrizal@gmail.com
+11/26/2024 19:50:59,Presentasi Integrasi Level User Interface ,11/29/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),22082010090@student.upnjatim.ac.id
+11/26/2024 22:40:33,Makalah Metode Penelitian,11/26/2024,1,Kurang dari 1 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),adityahartanto05@gmail.com
+11/27/2024 10:37:55,Proyek akhir Bangkit program,12/13/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),abdillahyusuf1911@gmail.com
+11/28/2024 12:28:54,SS-06 Assignment,12/8/2024,1,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),arseepfoto@gmail.com
+11/28/2024 13:21:07,Jurnal Tugas Akhir,12/2/2024,1,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),liestyanorroseta@gmail.com
+11/28/2024 13:21:54,Milestone 3 KWU,12/6/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),arseepfoto@gmail.com
+11/28/2024 13:22:46,Lab Coursera,12/5/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),arseepfoto@gmail.com
+11/28/2024 13:23:49,Portofolio Calon Sarjana,12/6/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),liestyanorroseta@gmail.com
+12/1/2024 12:57:30,Brief konten IG Takeover,12/4/2024,2,Kurang dari 1 Jam,"Organisasi (Kepengurusan, Kegiatan Organisasi, dll.)",3 (Cukup Prioritas),nurulizzah87@sma.belajar.id
+12/2/2024 10:20:14,Tugas Magang,12/2/2024,2,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),adinanda274@gmail.com
+12/2/2024 10:22:21,Linear Integer,12/3/2024,2,Kurang dari 1 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),imanuelfelixyafianto@gmail.com
+12/2/2024 10:22:35,Matkom Integer,12/2/2024,2,Kurang dari 1 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),syifamauliddia18@gmail.com
+12/2/2024 10:22:38,Matkom integer programming,12/2/2024,2,Kurang dari 1 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),diantobing81@gmail.com
+12/2/2024 10:25:14,Proposal sponsor,12/23/2024,3,Lebih dari 6 Jam,Kepanitiaan,4 (Prioritas),anggitttadwi3103@gmail.com
+12/2/2024 10:27:31,Artikel Ilmiah Klasifikasi Paprika CNN,12/9/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),21081010117@student.upnjatim.ac.id
+12/2/2024 10:27:55,Matematika Komputasi Transportation dan Trainshipment,12/8/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),adelianoviyanti54@gmail.com
+12/2/2024 10:27:55,Matematika komputasi transportation dan transhipment,12/8/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),dina40612@gmail.com
+12/2/2024 10:27:58,Matematika Komputasi Transportation and Transhipment,12/8/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),naylasifa455@gmail.com
+12/2/2024 10:28:07,"Matematika Komputasi ""Transportation and Transhipment""",12/8/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),26.rosalindaeka@gmail.com
+12/2/2024 10:28:10,Matematika Komputasi Transportasi dan Trainshipment,12/8/2024,3,4-6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),genduknurulaini05@gmail.com
+12/2/2024 11:01:03,Laporan bussines plan ,12/2/2024,2,1-3 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),listiaseptian11@gmail.com
+12/2/2024 11:02:01,Proposal PKM,12/19/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),amanaser.razan2006@gmail.com
+12/2/2024 11:16:33,1. Membuat program sistem kasir dengan bermacam fitur,12/16/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),24082010119@student.upnjatim.ac.id
+12/2/2024 11:53:39,Aplikasi Kasir menggunakan Method & Array,12/8/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),hasanahamelia279@gmail.com
+12/3/2024 13:27:57,laporan analisi tkti pada studi kasus perusahaan,12/17/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),melisysesy19@gmail.com
+12/3/2024 15:13:08,logbook,12/31/2024,1,Kurang dari 1 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),iamzahrabit@gmail.com
+12/3/2024 15:13:49,Script MC,12/12/2024,2,4-6 Jam,Kepanitiaan,3 (Cukup Prioritas),iamzahrabit@gmail.com
+12/3/2024 15:14:29,course cc,12/7/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),iamzahrabit@gmail.com
+12/3/2024 19:04:33,Laporan Akhir MSIB,12/25/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),arseepfoto@gmail.com
+12/3/2024 19:05:08,Luaran Matakuliah Sistem Enterprise,12/27/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",2 (Kurang Prioritas),arseepfoto@gmail.com
+12/3/2024 19:07:08,Laporan PKL,12/31/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",3 (Cukup Prioritas),arseepfoto@gmail.com
+12/3/2024 19:26:00,analisis model matematika pada penyebaran berita hoax,12/6/2024,3,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",5 (Sangat Prioritas),rachmaniadwi23@gmail.com
+12/4/2024 9:45:18,Sejarah Radio Solo pertama (SRV) ,12/6/2024,2,Lebih dari 6 Jam,"Akademik (Tugas Kuliah, Laporan Praktikum, dll.)",4 (Prioritas),fianesham@gmail.com
